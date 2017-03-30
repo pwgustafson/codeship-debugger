@@ -1,6 +1,3 @@
-
-console.log('hi')
-
 var asides = document.getElementsByTagName("aside");
 for(var i = 0; i < asides.length; i++){
    //do something to each div like
