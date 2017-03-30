@@ -1,4 +1,4 @@
-# Wide Hull
+# Wide Hull*
 **TL:DR** - A chrome extension that will expand the codeship build output to help with debugging.
 
 ### What exactly does it do?
@@ -7,3 +7,5 @@ It's pretty simple, when viewing the build details for a deploy - the **Test Com
 ### How to install
 * Clone repository
 * see this [article](https://developer.chrome.com/extensions/getstarted#unpacked) for reference
+
+*[@dougshamoo](https://github.com/dougshamoo)
