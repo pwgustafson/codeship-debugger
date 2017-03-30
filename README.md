@@ -1,4 +1,4 @@
-# Codeship Debugger aka Wide Hull or Bilge Pump (working titles)*
+# Codeship Debugger aka Wide Hull or Bilge Pump or Poop Deck (working titles)*
 **TL:DR** - A chrome extension that will expand the codeship build output to help with debugging.
 
 ### What exactly does it do?
