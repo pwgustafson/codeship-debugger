@@ -1,5 +1,16 @@
 body .container {
-  width: 3000px;
   max-width: 3000px;
+}
+
+.widget {
+  display: none;
+}
+
+.grid .col.l75 {
+  width: 100%;
+}
+
+aside {
+  display: none;
 }
 
