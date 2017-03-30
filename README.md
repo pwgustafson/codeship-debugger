@@ -1,4 +1,4 @@
-# Codeship Debugger
+# Wide Hull
 **TL:DR** - A chrome extension that will expand the codeship build output to help with debugging.
 
 ### What exactly does it do?
