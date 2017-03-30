@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Codeship Debugger",
+  "description": "This extension will expand the viewing area of the codeship output pane.",
+  "version": "1.0",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": [ "https://app.codeship.com/projects/*/builds/*" ]
+
+
+  }],
+  "permissions": [
+    "activeTab"
+  ]
+}
